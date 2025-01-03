@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$(date +%f-%H-%M-%S)
+DATE=$(date +'%Y-%m-%d-%H-%M-%S')
 SCRIPT_NAME=$0
 LOGFILE=/tmp/SCRIPT_NAME-$DATE.log
 
