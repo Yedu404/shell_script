@@ -1,3 +1,3 @@
 dependencies=("mysql" "git" "postfix")
 
-echo "1st dependency : {$dependencies[0]}"
+echo "1st dependency : ${dependencies[0]}"
