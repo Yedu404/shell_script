@@ -1,3 +1,3 @@
-NAME="Yedukondalu"
-read -s NAME
-echo "$NAME"
+dependencies=("mysql" "git" "postfix")
+
+echo "1st dependency : {$dependencies[0]}"
