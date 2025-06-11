@@ -1,3 +1,3 @@
 NAME="Yedukondalu"
-readonly NAME
+read -s NAME
 echo "$NAME"
