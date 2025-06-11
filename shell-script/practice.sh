@@ -1,3 +1,3 @@
-NAME=$1
+NAME="Yedukondalu"
 UNSET NAME
 echo "$NAME"
