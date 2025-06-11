@@ -1,3 +1,6 @@
-dependencies=("mysql" "git" "postfix")
+#!/bin/bash
 
-echo "1st dependency : ${dependencies[0]}"
+for i in {1..1000}
+do
+    echo $i
+done
