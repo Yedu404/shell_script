@@ -1,3 +1,3 @@
 NAME="Yedukondalu"
-UNSET NAME
+readonly NAME
 echo "$NAME"
